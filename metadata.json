@@ -1,0 +1,10 @@
+{
+  "name": "Secure Wi-fi Bluetooth Toggler",
+  "description": "Secure Wi-fi Bluetooth Toggler with real-time cellular tower triangulation and interactive coordinate mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
